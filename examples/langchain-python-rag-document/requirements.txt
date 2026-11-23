@@ -52,7 +52,7 @@ mypy-extensions==1.0.0
 nltk==3.8.1
 numexpr==2.8.5
 numpy==1.24.3
-oauthlib==3.2.2
+oauthlib==4.0.1
 onnxruntime==1.15.1
 openapi-schema-pydantic==1.2.4
 opt-einsum==3.3.0
